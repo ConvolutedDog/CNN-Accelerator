@@ -1,2 +1,2 @@
 # CNN-Accelerator
-A CNN accelerator supporting inference and training
+CNN accelerator supporting inference and training, under development.
